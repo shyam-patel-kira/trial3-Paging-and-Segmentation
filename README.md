@@ -1,6 +1,6 @@
 For Running the code Download all files in folder and compile using 
 ```bash
-javac _*_.java
+javac *.java
 ```
 Main Class in present in Main.java for running this file use command 
 ```bash
